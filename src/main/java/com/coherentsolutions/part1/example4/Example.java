@@ -1,4 +1,4 @@
-package com.coherentsolutions.part1.exercise4;
+package com.coherentsolutions.part1.example4;
 
 class Course {
     String subject;
